@@ -1,7 +1,7 @@
 # Adech Theme for Visual Studio Code
 
 Inspired by **loneliness**, to think about our nature and things we cannot explain.
-<img src="images/adech-theme.svg" alt="screenshot 1" width="500"/>
+<img src="images/adech-theme-superior.svg" alt="screenshot 1" width="500"/>
 
 ## Scheme
 #### Interface colors
