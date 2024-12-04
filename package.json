@@ -1,0 +1,25 @@
+{
+  "name": "adech-theme",
+  "displayName": "Adech Theme",
+  "description": "Lonely theme inspired by cold colors for VSC.",
+  "version": "0.1.0",
+  "publisher": "Adechlien",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adechlien/adech-theme-vsc"},
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Adech Theme Superior",
+        "uiTheme": "vs-dark",
+        "path": "./themes/adech-theme-superior.json"
+      }
+    ]
+  }
+}
