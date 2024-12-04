@@ -1,16 +1,25 @@
-# adech-theme README
+# Adech Theme for Visual Studio Code
 
-## Working with Markdown
+Inspired by **loneliness**, to think about our nature and things we cannot explain.
+<img src="images/adech-theme.svg" alt="screenshot 1" width="500"/>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Scheme
+#### Interface colors
+<img src="images/palette-swamp.svg" alt="interface colors" width="320"/>
+<img src="images/palette-angel.svg" alt="interface colors" width="320"/>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+#### Syntax colors
+<img src="images/palette-boulevard.svg" alt="interface colors" width="320"/>
+<img src="images/palette-reverie.svg" alt="interface colors" width="320"/>
+<img src="images/palette-boulevard.svg" alt="interface colors" width="320"/>
 
-## For more information
+#### Complement colors
+<img src="images/palette-sunny.svg" alt="interface colors" width="320"/>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation and Use
+**Adech Theme** is already available in VSC Extensions.
 
-**Enjoy!**
+To install it, just go to VSCode > Extensions > Adech Theme.
+
+## How to contribute
+Everyone is free to fork, make changes and fix issues 😄.
