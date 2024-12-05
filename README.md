@@ -11,7 +11,7 @@ Inspired by **loneliness**, to think about our nature and things we cannot expla
 #### Syntax colors
 <img src="images/palette-boulevard.svg" alt="interface colors" width="320"/>
 <img src="images/palette-reverie.svg" alt="interface colors" width="320"/>
-<img src="images/palette-boulevard.svg" alt="interface colors" width="320"/>
+<img src="images/lush.svg" alt="interface colors" width="320"/>
 
 #### Complement colors
 <img src="images/palette-sunny.svg" alt="interface colors" width="320"/>
