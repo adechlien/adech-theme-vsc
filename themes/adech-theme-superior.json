@@ -3,17 +3,61 @@
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-	  "enumMember": {
-		"foreground": "#8caeed"
-	  },
-	  "variable.constant": {
-		"foreground": "#dbcce8"
-	  },
-	  "variable.defaultLibrary": {
-		"foreground": "#80bba6"
-	  }
-	},
+  "enumMember": { "foreground": "#8caeed" },
+
+  "keyword": { "foreground": "#c0a5d1" },
+  "operator": { "foreground": "#8caeed" },
+
+  "variable": { "foreground": "#a6d2b9" },
+  "variable.constant": { "foreground": "#dbcce8" },
+  "variable.defaultLibrary": { "foreground": "#a6d2b9" },
+
+  "parameter": { "foreground": "#9ac0ff" },
+  "property": { "foreground": "#9ac0ff" },
+
+  "function": { "foreground": "#dbcce8" },
+  "method": { "foreground": "#dbcce8" },
+
+  "type": { "foreground": "#80bba6" },
+  "class": { "foreground": "#80bba6" },
+  "interface": { "foreground": "#80bba6" }
+},
+
 	"tokenColors": [
+	{
+  "name": "[ADEVH-SUPERIOR] JS/TS spread operator + identifier",
+  "scope": [
+    "keyword.operator.spread",
+    "keyword.operator.rest",
+    "punctuation.definition.spread"
+  ],
+  "settings": {
+    "foreground": "#a6d2b9"
+  }
+},
+{
+  "name": "[ADEVH-SUPERIOR] JS/TS console fallback",
+  "scope": [
+    "support.type.object.console",
+    "support.variable.object.console",
+    "support.variable.property.console"
+  ],
+  "settings": {
+    "foreground": "#a6d2b9"
+  }
+},
+{
+  "name": "[ADEVH-SUPERIOR] TS void",
+  "scope": [
+    "keyword.type.void.ts",
+    "keyword.type.void.tsx",
+    "keyword.operator.expression.void"
+  ],
+  "settings": {
+    "foreground": "#d19090"
+  }
+},
+
 	  {
 		"name": "unison punctuation",
 		"scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
